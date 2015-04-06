@@ -1,0 +1,3 @@
+# MyApplication
+我的一个用Android Studio写的ViewPager切换动画效果的例子
+这个例子是用google官方文档中的例子复写的.
